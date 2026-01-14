@@ -1,0 +1,1 @@
+Thank you for your interest in the Full-Stack Developer position at Full Stack Craft! You've made it through to the final round from a rather large pool of applicants. Let's schedule a video call to discuss the opportunity further and get to know each other better. Please schedule a time that works for you with my Calendly: https://calendly.com/fullstackcraft/30min
