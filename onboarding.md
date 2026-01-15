@@ -1,0 +1,3 @@
+- Invite to Slack
+- Invite to Linear
+- Add to repos / org on GitHub

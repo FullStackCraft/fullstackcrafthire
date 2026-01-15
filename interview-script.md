@@ -1,7 +1,9 @@
 So, to kick this interview off, I'm going to give you a bit more background on to who I am and I what I do at Full Stack Craft, some of our products, and my philosophy around building SaaS.
 
-So, I'm Chris, as you saw in the job posting, I run Full Stack Craft (fullstackcraft.com) — a bootstrapped fintech & developer tools company. We build multiple profitable products serving options traders, sports bettors, and developers alike. Some of our current products include The Wheel Screener, LEAPS Screener, VannaCharm, PriceArb, CodeVideo, and several others — combined generating around $3k/month with minimal expenses.
+So, I'm Chris, as you saw in the job posting, I run Full Stack Craft (fullstackcraft.com) — I got started in 2020, but I didn't really have a profitable product until 2021 when I launched wheel screener. We build multiple profitable products serving options traders, sports bettors, and developers alike. Some of our current products include The Wheel Screener, LEAPS Screener, VannaCharm, PriceArb, CodeVideo, and several others — combined generating around $3k/month with minimal expenses.
 
 To put it straight out, I'm trying to find candidates that would like to remain indefinitely - at the _very least_ a year to six months. I hope it was clear in the job posting that this is not a standard "hired freelancer" gig — I want you to think like an owner, and have real input on product direction, tech decisions, and strategy.
 
 Also keep in mind that I'm a super lean founder - you will be by far the largest expense on the books I've ever had, so yeah, no pressure, just letting you know how it is :)
+
+So, about you - what are you working on currently, what are you following or interested currently in tech, and what are your long term goals?
