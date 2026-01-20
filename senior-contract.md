@@ -2,7 +2,7 @@ Independent Contractor Agreement
 
 (Indefinite Term)
 
-This Independent Contractor Agreement (“Agreement”) is entered into as of [Start Date], by and between:
+This Independent Contractor Agreement (“Agreement”) is entered into as of February 1st, 2026, by and between:
 
 Company: Full Stack Craft LLC (operated by Christopher Frewin)
 Website: https://fullstackcraft.com
@@ -18,7 +18,7 @@ Contractor: [Full Legal Name], residing in [Country]
 
 The Company engages the Contractor as an independent contractor, not as an employee, partner, or agent. Nothing in this Agreement shall be construed to create an employment relationship, partnership, or joint venture.
 
-This Agreement is for an indefinite period of time, commencing on the Start Date, unless terminated in accordance with Section 10.
+This Agreement is for an indefinite period of time, commencing on February 1st, 2026, unless terminated in accordance with Section 10.
 
 2. Scope of Work
 
@@ -69,9 +69,9 @@ The intent is that the average workload over a monthly period remains approximat
 4. Compensation
 4.1 Base Compensation
 
-The Company shall pay the Contractor $500 USD per month, equivalent to $6,000 USD per year, for the baseline 50% commitment.
+The Company shall pay the Contractor $500 USD per month, for the baseline 50% commitment for services rendered.
 
-Payments shall be made on the 15th and 30th of each month via any method of the Company's and Contractor’s mutual choosing (e.g., PayPal, TransferWise, bank transfer).
+Payments shall be made once per month on the last day of each month via any method of the Company's and Contractor’s mutual choosing (e.g., PayPal, Wise, bank transfer).
 
 4.2 Reviews & Increases
 
@@ -125,7 +125,7 @@ The Contractor is solely responsible for all taxes, duties, and statutory obliga
 
 10. Termination
 
-Either party may terminate this Agreement without cause by providing 30 days written notice.
+Either party may terminate this Agreement without cause by providing at least 30 days' (one month) written notice. Both parties must provide at least one month's written notice before quitting or resigning.
 
 The Company may terminate immediately for:
 
